@@ -1,6 +1,6 @@
 ### Hi there 👋, Daniel Ayala Rivas
 #### Drilling & Completions Engineer and Data science enthusiast!
-![Drilling & Completions Engineer and Data science enthusiast!](https://github.com/danielayalarivas/danielayalarivas/blob/main/Screen%20Shot%202022-05-11%20at%2020.19.03.png)
+![Drilling & Completions Engineer and Data science enthusiast!](https://github.com/danielayalarivas/danielayalarivas/blob/main/Screen%20Shot%202022-05-11%20at%2020.26.30.png)
 
 I am Daniel Ayala Rivas, I am a resourceful, adaptable, and dynamic Mechanical/Chemical & Petroleum Engineer with widespread experience in both national and international drilling, completions, and workover. I am been recognized for accomplishing the plan, design, and execution of complex delineation, horizontal and thermal Steam-Assisted Gravity Drainage (SAGD) wells. I have proven success with prepared high-level directional plans, casing designs, hydraulic evaluations, torque and drag analysis, drilling and completion programs, and stick diagrams following the Alberta Energy regulator (AER) requirements.
 

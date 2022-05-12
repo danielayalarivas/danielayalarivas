@@ -1,10 +1,16 @@
-### Hi there 👋, Daniel Ayala Rivas
-#### Drilling & Completions Engineer and Data science enthusiast!
 ![Drilling & Completions Engineer and Data science enthusiast!](https://github.com/danielayalarivas/danielayalarivas/blob/main/Screen%20Shot%202022-05-11%20at%2020.26.30.png)
+
+# Daniel Ayala Rivas
 
 I am Daniel Ayala Rivas, I am a resourceful, adaptable, and dynamic Mechanical/Chemical & Petroleum Engineer with widespread experience in both national and international drilling, completions, and workover. I am been recognized for accomplishing the plan, design, and execution of complex delineation, horizontal and thermal Steam-Assisted Gravity Drainage (SAGD) wells. I have proven success with prepared high-level directional plans, casing designs, hydraulic evaluations, torque and drag analysis, drilling and completion programs, and stick diagrams following the Alberta Energy regulator (AER) requirements.
 
-Skills: Python / Machine Learning / Well Design / Casing Design  / Hydraulics/ Torque & Drag design
+## Skills and Experience 
+
+* 💻 Python / Machine Learning / Artificial Intelligence
+* :atom: Well Design / Casing Design  / Hydraulics/ Torque & Drag design
+* 🌡️ Horizontal and thermal SAGD drilling experience
+* 👨‍🏫 Project managenet / Teamwork  / Project implementation / Time management
+
 
 - 🔭 I’m currently working on using Machine Learning to predict the rate of penetration (ROP) and to optimize the drilling parameters of a SAGD producer well. 
 

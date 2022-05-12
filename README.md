@@ -9,4 +9,5 @@ Skills: Python / Machine Learning / Well Design / Casing Design  / Hydraulics/ T
 - 🔭 I’m currently working on Using Machine Learning to Predict the Rate of Penetration (ROP)and Optimize Drilling Parameters of a SAGD Producer Well 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielayalarivas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-ayala-meng-p-eng/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielayalarivas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-ayala-meng-p-eng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://doi.org/10.2118/0419-0066-JPT)  
+

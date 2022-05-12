@@ -8,11 +8,11 @@ I am Daniel Ayala Rivas, I am a resourceful, adaptable, and dynamic Mechanical/C
 
 * 💻 Python / Machine Learning / Artificial Intelligence
 * :atom: Well Design / Casing Design  / Hydraulics/ Torque & Drag design
-* 🌡️ Horizontal and thermal SAGD drilling experience
+* 🌡️ Horizontal and thermal SAGD drilling and completions experience
 * 👨‍🏫 Project managenet / Teamwork  / Project implementation / Time management
 
 
 - 🔭 I’m currently working on using Machine Learning to predict the rate of penetration (ROP) and to optimize the drilling parameters of a SAGD producer well. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielayalarivas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-ayala-meng-p-eng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://doi.org/10.2118/0419-0066-JPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg' alt='abstract' height='40'>](https://doi.org/10.2118/193357-MS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg' alt='abstract' height='40'>](https://doi.org/10.2118/193354-MS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://prism.ucalgary.ca/handle/1880/106254)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielayalarivas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-ayala-meng-p-eng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://doi.org/10.2118/0419-0066-JPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg' alt='abstract' height='40'>](https://doi.org/10.2118/193357-MS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg' alt='abstract' height='40'>](https://doi.org/10.2118/193354-MS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://prism.ucalgary.ca/handle/1880/106254) 

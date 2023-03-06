@@ -2,11 +2,11 @@
 
 # Daniel Ayala Rivas
 
-I am Daniel Ayala Rivas, and I am a resourceful, adaptable, and dynamic Mechanical/Chemical & Petroleum Engineer with widespread experience in both national and international drilling, completions, and workover. I have been recognized for accomplishing the plan, design, and execution of complex delineation, horizontal and thermal Steam-Assisted Gravity Drainage (SAGD) wells. I have proven success with prepared high-level directional plans, casing designs, hydraulic evaluations, torque and drag analysis, drilling and completion programs, and stick diagrams following the Alberta Energy regulator (AER) requirements.
+A resourceful, adaptable, and dynamic Mechanical/Chemical & Petroleum Engineer with widespread experience in both national and international drilling, completions, workover, abandonment, and production. Recognized for accomplishing the plan, design, and execution of complex delineation, horizontal and thermal Steam-Assisted Gravity Drainage (SAGD) wells. Proven success with hands-on and troubleshooting contributions to complete drilling jobs on-site. Prepared high-level directional plans, casing designs, hydraulic evaluations, torque and drag analysis, drilling and completion programs, and stick diagrams following the Alberta Energy Regulator (AER) requirements. Experienced engineer with expertise in data analytics, data visualization, data quality, and data access. Proven track record of analyzing production and drilling datasets using WellView and Electronic Drilling Recorder (EDR) data sources to analyze controllable drilling parameters and predict the rate of penetration of a Steam Assisted Gravity Drainage (SAGD) production well.
 
 ## Skills and Experience 
 
-* 💻 Python / Machine Learning / Artificial Intelligence
+* 💻 Python / Machine Learning / Artificial Intelligence / C#
 * :atom: Well Design / Casing Design  / Hydraulics/ Torque & Drag design
 * 🌡️ Horizontal and thermal SAGD drilling and completions experience
 * 👨‍🏫 Project managenet / Teamwork  / Project implementation / Time management
